@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BatchBlock.App/BatchBlock.App.csproj" />
+  <Project Path="BatchBlockActionBlock.App/BatchBlockActionBlock.App.csproj" />
+  <Project Path="BufferBlockTransformBlockCsv.App/BufferBlockTransformBlockCsv.App.csproj" />
+  <Project Path="DataFlow.BufferBlock.App/BufferBlock.App.csproj" />
+  <Project Path="DataFlow.BufferBlockAndActionBlock.App/BufferBlockAndActionBlock.App.csproj" />
+</Solution>
